@@ -6,10 +6,10 @@ Curso 2017/2018
 
 ## Contenidos de módulo
 
-Tema 1: Elementos de desarrollo del software
-Tema 2: Entornos integrados de desarrollo
-Tema 3: Diseño y realización de pruebas
-Tema 4: documentación y otimización
-Tema 5: Elaboración de diagramas de clases
-Tema 6: Elaboración de diagramas de comportamiento
+Tema 1: Elementos de desarrollo del software  
+Tema 2: Entornos integrados de desarrollo  
+Tema 3: Diseño y realización de pruebas  
+Tema 4: documentación y otimización  
+Tema 5: Elaboración de diagramas de clases  
+Tema 6: Elaboración de diagramas de comportamiento  
 
